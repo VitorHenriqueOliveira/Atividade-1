@@ -43,4 +43,4 @@ router.get('/edit', async(req, res) => { //quando chegar em edit de alunos ('/ed
 
 module.exports = router; 
 //todas as rotas que aqui criou, se não forem exportadas ele não le, não roda, e da erro
-//quem vai ler o as rotas é o app.js, se não exportar ele não consegue ler
+//quem vai ler o as rotas é o app.js, se não exportar ele não consegue ler 
